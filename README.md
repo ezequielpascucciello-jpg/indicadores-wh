@@ -1,2 +1,2 @@
 # Diaria WH
-Versión corregida enero-octubre 2026.
+Versión completa enero-octubre 2026.
