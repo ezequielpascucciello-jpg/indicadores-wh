@@ -1,2 +1,2 @@
-# Diaria WH
-Versión final completa enero-octubre 2026.
+# Diaria WH dinámica
+El botón Cargar Excel actualiza y conserva los datos en el navegador.
